@@ -1,0 +1,39 @@
+* {
+    font-family: Helvetica, sans-serif;
+  }
+.background-image {
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+
+}
+
+#page-title {
+    background-image: url(/images/pattern.jpeg);
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+  }
+
+#brushes {
+    background-color: mediumspringgreen;
+  }
+#frame {
+    background-color: lightcoral;
+  }
+
+#paint {
+    background-color: skyblue;
+  }
+
+span.blue {
+    font-weight: bold;
+    color:blue
+  }
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white; 
+  }
